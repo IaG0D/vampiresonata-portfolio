@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Luau",
+    "icon": "/icons/0.svg"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "/icons/1.svg"
+  },
+  {
+    "name": "React",
+    "icon": "/icons/2.svg"
+  },
+  {
+    "name": "Node.js",
+    "icon": "/icons/3.svg"
+  },
+  {
+    "name": "Python",
+    "icon": "/icons/4.svg"
+  },
+  {
+    "name": "SQLite",
+    "icon": "/icons/5.svg"
+  },
+  {
+    "name": "Discord.py",
+    "icon": "/icons/6.svg"
+  },
+  {
+    "name": "REST APIs",
+    "icon": "/icons/7.svg"
+  },
+  {
+    "name": "Rojo",
+    "icon": "/icons/8.svg"
+  },
+  {
+    "name": "Wally",
+    "icon": "/icons/9.svg"
+  },
+  {
+    "name": "AI / LLM",
+    "icon": "/icons/10.svg"
+  },
+  {
+    "name": "MCP",
+    "icon": "/icons/11.svg"
+  },
+  {
+    "name": "Claude",
+    "icon": "/icons/12.svg"
+  },
+  {
+    "name": "AI Agents",
+    "icon": "/icons/13.svg"
+  },
+  {
+    "name": "FiveM",
+    "icon": "/icons/14.svg"
+  },
+  {
+    "name": "Git",
+    "icon": "/icons/15.svg"
+  }
+]
